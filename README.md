@@ -13,5 +13,6 @@ SK Planet 신입사원 git 교육 최종 실습을 위한 프로젝트 입니다
 
 
 ## mission 
-TODO
+
+next branch 로 checkout 후 README.md 파일을 읽어보세요.
 
