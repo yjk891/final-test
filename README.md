@@ -4,6 +4,5 @@
 
 ## mission 
 
-1. 비어있는 가사를 채워 넣고 pull request 를 보내주세요
-2. AUTHOR.md 파일의 contribtors 영역에 본인 정보를 입력해서 올려주세요
-3. 두개의 이슈가 하나의 commit 에 등록 되지 않도록 주의 하세요.
+song.md 파일을 열고 빠져있는 가사 내용을 커밋 메세지로 가지고 있는 
+커밋으로 branch 를 되돌리기 하세요.
